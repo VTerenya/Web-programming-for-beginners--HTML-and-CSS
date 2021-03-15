@@ -1,0 +1,25 @@
+body {
+  margin: auto;
+  text-align: center;
+}
+
+.container {
+  box-sizing: border-box;
+  max-width: 1219px;
+}
+
+.header {
+  width: 100%;
+  position: fixed;
+  background: #007765;
+  top: 0;
+  left: 0;
+}
+
+.logo {
+  float: left;
+}
+
+.separator {
+  display: inline;
+}
